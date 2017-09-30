@@ -1,5 +1,5 @@
 # Fantasy Suite Sim
-A goofy, sex-positive game for [Strawberry Jam](https://itch.io/jam/strawberry-jam) inspired by the Bachelor/Bachelorette franchise. (They're better than you probably think)
+A goofy, body-positive game for [Strawberry Jam](https://itch.io/jam/strawberry-jam) inspired by the Bachelor/Bachelorette franchise. (They're better than you probably think)
 made by me, Rick/cucumbur. contact me at cucucumbur@gmail.com by email. @cucumbur, or @rick_sheahan
 
 ## What is Fantasy Suite Sim?
